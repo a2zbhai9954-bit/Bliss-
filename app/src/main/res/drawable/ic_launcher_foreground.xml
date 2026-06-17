@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Clean, bold protective shield of discipline -->
+    <path
+        android:pathData="M54,18 L82,28 C82,28 84,54 82,62 C78,76 66,86 54,92 C42,86 30,76 26,62 C24,54 26,28 26,28 Z"
+        android:strokeColor="#10B981"
+        android:strokeWidth="4"
+        android:fillColor="#111B21" />
+    
+    <!-- Bold Dollar Symbol centered in shield -->
+    <path
+        android:pathData="M54,32 L54,76"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="6"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M64,43 C64,36.5 44,36.5 44,47 C44,56 64,54 64,63 C64,72 44,72 44,65"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+</vector>

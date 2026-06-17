@@ -1,0 +1,6 @@
+{
+  "name": "Finance Tracker",
+  "description": "An offline-first personal finance app to track income, expenses, monthly payments, and get AI-powered discipline coaching and interactive charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
